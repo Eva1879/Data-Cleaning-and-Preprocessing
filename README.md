@@ -1,1 +1,2 @@
 # Data-Cleaning-and-Preprocessing
+Research and Development stats over a period of years in sectors of Fishing, Agriculture, Mining, Manufacturing etc. Their investments and overview done. The raw data is cleaned to more usable form, to derive insights and analysis for clients viewing the data to take actionable insights further. The data is also visualized against numeric terms, for box plot, bar charts etc.
